@@ -1,0 +1,9 @@
+What is Devops ? and Why devops ?
+
+Devops is a process of BUILDING, TESTING, and DEPLOYING applications countinusly,Basically If you can Deploy and Testing the code in sameday we can get maximum feedback cycle's to improve our product….
+So,that we can use multiple tool's to make this process smooth. Like:-  Continuos Development, Integration (or) testing, Deployment,Delivary,Monitoring,application security etc part….. of devops. 
+
+ ( OR )
+
+Devop's is a process of practice of enabling the Fast and Secure movement of developer code from the ( lower Enviroment to production enviroment ) while minimizing a bugs and high quality software releses.
+

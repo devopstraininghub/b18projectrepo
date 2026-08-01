@@ -1,0 +1,21 @@
+Computer:
+Difference B/w Windows vs Mac vs Linux ? 
+
+LINUX:-
+
+Linux  = Secure ->SSH;
+NO GRAPHICS;
+	•  Low power,
+	•  Low ram,
+	•  Low bandwith,
+	•  Fast,
+
+Heavy Performance;
+	•  Free,
+	•  Run for years no need to restart,
+	•  AntiVirus not required,
+	•  Opensource,
+
+Harware and Software are  tightly coupled.
+
+
