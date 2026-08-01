@@ -1,4 +1,0 @@
-1. grep -in "text meassage copy" <fname>
-2. grep -inA-n "text messasge copy" <fname>
-3. grep -inB-n "text message copy" <fname>
-4. grep -inC-n "text message copy" <fname>
