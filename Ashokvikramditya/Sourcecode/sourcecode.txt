@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Modern Landing Page</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:linear-gradient(135deg,#6a11cb,#2575fc);
+    color:#fff;
+    min-height:100vh;
+}
+
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 8%;
+}
+
+.logo{
+    font-size:28px;
+    font-weight:bold;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-left:20px;
+    transition:.3s;
+}
+
+nav a:hover{
+    color:#ffd700;
+}
+
+.hero{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    height:80vh;
+    text-align:center;
+    padding:20px;
+}
+
+.hero h1{
+    font-size:55px;
+    margin-bottom:20px;
+}
+
+.hero p{
+    max-width:600px;
+    line-height:1.7;
+    margin-bottom:30px;
+    font-size:18px;
+}
+
+button{
+    padding:14px 30px;
+    border:none;
+    border-radius:30px;
+    background:white;
+    color:#2575fc;
+    font-size:18px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+button:hover{
+    transform:scale(1.05);
+    background:#ffd700;
+    color:#000;
+}
+
+.cards{
+    display:flex;
+[O    justify-content:center;
+    gap:25px;
+    flex-wrap:wrap;
+    padding:50px 8%;
+}
+
+.card{
+    background:white;
+    color:#333;
+    width:280px;
+    padding:25px;
+    border-radius:15px;
+    text-align:center;
+    box-shadow:0 10px 20px rgba(0,0,0,.2);
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+}
+
+.card h3{
+    margin-bottom:15px;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+    background:rgba(0,0,0,.2);
+}
+</style>
+
+</head>
+<body>
+
+<header>
+    <div class="logo">MyWebsite</div>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h1>Welcome to My Website</h1>
+    <p>
+        This is a simple responsive landing page created using
+        HTML and CSS in a single file. You can customize it for
+        your own portfolio, business, or personal website.
+    </p>
+
+    <button>Get Started</button>
+</section>
+
+<section class="cards">
+
+    <div class="card">
+        <h3>Fast</h3>
+        <p>Optimized layout with clean and modern design.</p>
+    </div>
+
+    <div class="card">
+        <h3>Responsive</h3>
+        <p>Looks great on desktops, tablets, and mobile devices.</p>
+    </div>
+
+[I    <div class="card">
+        <h3>Easy to Edit</h3>
+        <p>Everything is contained in one HTML file for simplicity.</p>
+    </div>
+
+</section>
+
+<footer>
+    &copy; 2026 MyWebsite. All Rights Reserved.
+</footer>
+
+</body>
+</html>
