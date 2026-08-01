@@ -46,5 +46,70 @@ branch creation
    git merge br1 (branch name)
    ls
    file 1file2   tis show 
+-----------------------------
+    rebase concept
+1.go to settings option in central repo first create a file on central repo and commited 
+2.open git bash of central repo 
+  git clone https://github.com/chradhakrishna/krishna.git~
+  ls
+  cd krishna/  ---this is  central repo
+  ls
+  touch newfile 
+  git add .&& commit -m "msg" 
+  git push (getting error)
+  git pull --rebase
+  ls
+  git push
+  ls 
+now show the two files one is central  repo and second git bash 
+NOTE: if u stop the rebase/pull
+git rebase --abort  -----cancelld the pullig
+
+===============================================================
+        cherry-pick
+
+git branch 
+touch file1 file2 
+git add . && git commit -m "msg"
+git status
+git log
+git branch newbranch 
+touch a b 
+git add . && git commit -m "msg"
+ls
+touch c d
+git add . && git commit -m "msg"
+git log 
+#dont merge the branches ,when use merge commanad copy the all files into master/ main 
+git checkout master 
+git cherry-pick commit id (either a b file commite id or c, d commirt id )
+ls
+=============================================================================
+    push the data to new createtd barnch
+git branch 
+git branch newbranch 
+git checkout newbranch
+touch file1
+git add . && git commit -m"msg"
+git log 
+git push url of central repo newbranch
+git push url newbranch 
+   or 
+git push origin newbranch
+
+then check the newbranch in cental repo no impact in central repo , the data will store in newbranch
+===============================================================================
+
+
+
+  
+  
+
+
+
+
+
+
+
    
 
