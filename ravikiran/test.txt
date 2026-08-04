@@ -1,0 +1,1 @@
+AI will not replace DevOps, but it is changing routine tasks like writing YAML, generating Terraform, and log analysis.
