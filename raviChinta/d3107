@@ -1,1 +1,5 @@
-Firsti commit by ravi sanker chinta
+rsti commit by ravi sanker chinta
+git command list
+New Branch : git branch <branch_name>
+Switch Branch : git checkout <branch_name>
+

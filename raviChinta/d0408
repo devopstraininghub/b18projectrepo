@@ -1,2 +1,3 @@
-This is new file created by branching out of main
-Changing file direactly 
+git init
+git commit -m "Message"
+git push -u origin main
