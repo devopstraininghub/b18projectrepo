@@ -1,0 +1,13 @@
+git init
+git clone
+git add .
+git commit -m "message"
+git status
+git branch
+git checkout branch
+git push
+git pull
+git log
+git show
+git config -- global user.name
+git congig -- global user.email
