@@ -1,0 +1,386 @@
+We are practicing Git since last one week
+
+1  PWD
+    2  PWD
+    3  LL
+    4  IS
+    5  is
+    6  LL
+    7  CD
+    8  git --version
+    9  touch pranishka
+   10  ll
+   11  cat pranishka
+   12  cd..
+   13  cd ..
+   14  ll
+   15  git --version
+   16  touch git1 git2
+   17  ll
+   18  mkdir folder1 folder2
+   19  ll
+   20  ls
+   21  cat folder1
+   22  pwd
+   23  touch a
+   24  ll
+   25  cd folder1
+   26  touch b
+   27  ll
+   28  cd ..
+   29  rm -rf a
+   30  ll
+   31  ls
+   32  rm -rf folder2
+   33  ll
+   34  cd folder1
+   35  touch file 22
+   36  11
+   37  ll
+   38  cd b
+   39  ll
+   40  i
+   41  touch a . text
+   42  nano a . text
+   43  cat a
+   44  ll
+   45  cd ..
+   46  ll
+   47  rm - rf folder1
+   48  rm -rf folder1
+   49  ll
+   50  rm -rf git1
+   51  rm -rf git2
+   52  ll
+   53  pwd
+   54  history
+   55  touch F1 F2 F3
+   56  MKDIR GIT1 GIT2
+   57  CD GIT1
+   58  LL
+   59  ll
+   60  lr
+   61  ls
+   62  rm -rf f3
+   63  cd git1
+   64  pwd
+   65  cd ..
+   66  cat f1
+   67  cat f1
+   68  cd ..
+   69  cd DEVOPS
+   70  cat f1
+   71  touch f3.text
+   72  nano f2
+   73  cat f2
+   74  ll
+   75  git init
+   76  git config user.name "prajwal koyalkonda"
+   77  git config user.email "prajwal@gmail.com"
+   78  touch ai
+   79  git status
+   80  git add ai
+   81  git status
+   82  git commit -m "first repo" ai
+   83  git status
+   84  git log
+   85  git show 9eab92686e2ce9d18107ec4fe593605b7bbb400a
+   86  ll
+   87  git status
+   88  git add .
+   89  git status
+   90  git commit -m "second repo"
+   91  git statu
+   92  git status
+   93  git show
+   94  ll
+   95  git log
+   96  git show 9eab92686e2ce9d18107ec4fe593605b7bbb400a
+   97  git show 9eab92686e2ce9d18107ec4fe593605b7bbb400a
+   98  git show e68aa31ed837e278e2b4583591225f8254bf1fe1
+   99  clear
+  100  exit
+  101  touch f1
+  102  touch f2 f3
+  103  mkdir hub1 hub2
+  104  rm -rf f3
+  105  ll
+  106  ls
+  107  nano f1
+  108  cat f1
+  109  git init
+  110  ll -la
+  111  rm -rf git
+  112  ll
+  113  ll -la
+  114  rm -rf .git
+  115  ll
+  116  ll -la
+  117  git int
+  118  git init
+  119  git status
+  120  git add .
+  121  ll
+  122  git status
+  123  git commit -m "new devops" f1 f2
+  124  git status
+  125  git commit --global user.namr Prajwal
+  126  git commit --global user.namr "Prajwal"
+  127  rm -rf .git
+  128  ll
+  129  ll -la
+  130  git init
+  131  git config --global user.name "Prajwal"
+  132  git config --global user.email "Prajwal@gmail.com"
+  133  git add .
+  134  git status
+  135  git commit -m "DEVOPS"
+  136  GIT STATUS
+  137  git status
+  138  git log
+  139  git show c975fee45ff1165ed64d037fc69225080caca730
+  140  rm -rf git.
+  141  ll
+  142  ll -la
+  143  rm -rf .git
+  144  touch f3
+  145  nano f3
+  146  cat f3
+  147  ll
+  148  git clone https://github.com/prajwal-2611/Prajwal.git
+  149  cd Prajwal
+  150  touch p1 p2
+  151  ll
+  152  cd ..
+  153  ll
+  154  ll -la
+  155  cd Prajwal
+  156  ll
+  157  cd ..
+  158  git status
+  159  git Prajwal
+  160  cd Prajwal
+  161  git status
+  162  git add p1 p2
+  163  git status
+  164  git commit -m "Git hub Repo"
+  165  git status
+  166  git log
+  167  git show 0838877251face2ce203b91e7556cf0d8f13569d
+  168  git push
+  169  git push
+  170  git push
+  171  nano p1
+  172  cat p1
+  173  git add.
+  174  git add .
+  175  git status
+  176  git commit -m "modified file"
+  177  git status
+  178  git log
+  179  git show 0838877251face2ce203b91e7556cf0d8f13569d
+  180  git show ef207a4f0699ce1bab0e669c484462067141e4d0
+  181  git push
+  182  nano p1
+  183  cat p1
+  184  git add .
+  185  git commit -m "modified file 2"
+  186  git status
+  187  git log
+  188  git show 796b6e136294ab10ce44b4abd6c6ba4d3e4bb5f8
+  189  git push
+  190  history
+  191  mkdir Prajwal
+  192  cd Prajwal
+  193  touch Git1
+  194  nano Git1
+  195  cat Git1
+  196  nano Git1
+  197  cat Git1
+  198  git status
+  199  git init
+  200  ll
+  201  git status
+  202  git add .
+  203  git status
+  204  git configure user.name "Prajwal"
+  205  git confi --global user.name "Prajwal"
+  206  git config --global user.name "Prajwal"
+  207  git config --global user.email "Prajwal@gmil.com"
+  208  git add .
+  209  ll
+  210  git add .
+  211  git status
+  212  rm -rf 'Git1 '
+  213  ll
+  214  git add .
+  215  git status
+  216  git commit -m "commit Git folder'
+  217  git status
+  218  git commit -m "folder commit"
+  219  git status
+  220  git log
+  221  git show 51a6d5a22bc9d084ff1f9f04b33db7f3fae0e8b5
+  222  exit
+  223  git clone https://github.com/prajwal-2611/Prajwal.git
+  224  touch c1
+  225  mkdir z1
+  226  nano ca
+  227  ll
+  228  nano c1
+  229  cat c1
+  230  git status
+  231  cat Prajwal
+  232  cd Prajwal
+  233  touch x1
+  234  mkdir x2
+  235  ll
+  236  nano x1
+  237  cat nano
+  238  cat x1
+  239  git status
+  240  git add .
+  241  git commit -m "commit x1"
+  242  git status
+  243  git log
+  244  git status d869cb921667ef30de2bad6b65df92b727864ac0
+  245  git push
+  246  exit
+  247  git clone https://github.com/devopstraininghub/b18projectrepo.git
+  248  cd b18projectrepo
+  249  touch Prajwal
+  250  git add .
+  251  git commit -m "prjwalfile"
+  252  git status
+  253  git log
+  254  git show 9c54bfa04d31bca8617c6a2a917d46a86e1f4881
+  255  git push Prajwal
+  256  git push Prajwal
+  257  git push Prajwal
+  258  git status
+  259  git push Prajwal
+  260  exit
+  261  git clone https://github.com/devopstraininghub/b18projectrepo.git
+  262  cd b18projectrepo
+  263  mkdir Prajwal
+  264  touch Code1
+  265  ll
+  266  git status
+  267  git add Prajwal
+  268  git status
+  269  cd prajwal
+  270  ll
+  271  ll
+  272  git status
+  273  git add .
+  274  git status
+  275  git commit -m "prajwal commit"
+  276  git status
+  277  ll
+  278  git push
+  279  touch p2
+  280  git status
+  281  git add .
+  282  git commit -m "prajwal commit"
+  283  git status
+  284  git push
+  285  git pull --rebase
+  286  git push
+  287  git branch
+  288  git init
+  289  mkdir d1
+  290  mkdir d2
+  291  git status
+  292  git add .
+  293  git status
+  294  ll
+  295  cat d1
+  296  cd d1
+  297  touch f1
+  298  git status
+  299  ll
+  300  git add f1
+  301  git status
+  302  git commit -m "commit"
+  303  git status
+  304  git log
+  305  git show e0647ae03d1165347fbb4ba3cc98ac4a31811866
+  306  ll
+  307  cd ..
+  308  ll
+  309  git status
+  310  git branch
+  311  git branch sub branch
+  312  git branch br.branch2
+  313  git branch
+  314  git branch -d br.branch
+  315  git branch -d br.branch2
+  316  git branch
+  317  git branch branch2
+  318  git branch
+  319  git checkout branch2
+  320  touch r1
+  321  git add .
+  322  git commit -m "branch2commit"
+  323  git status
+  324  ll
+  325  git checkout master
+  326  ll
+  327  git checkout master2
+  328  git checkout branch2
+  329  git merge master
+  330  ll
+  331  git checkout master
+  332  ll
+  333  git merge branch2
+  334  ll
+  335  touch g1
+  336  git add .
+  337  git commit -m "second commit"
+  338  git status
+  339  git log
+  340  git show 76d392a38d36df626aa2ad6e2c588b54d270185b
+  341  git checkout branch2
+  342  ll
+  343  git merge master
+  344  rm -rf r1
+  345  ll
+  346  git checkout master
+  347  ll
+  348  ll
+  349  rm -rf g1
+  350  ll
+  351  git checkout branch2
+  352  ll
+  353  git status
+  354  git clone https://github.com/devopstraininghub/b18projectrepo.git
+  355  cd b18projectrepo
+  356  ll
+  357  cd Prajwal
+  358  touch Git
+  359  -echo "git practice commands" > Git
+  360  -echo "git practice commands" >Git
+  361  nano Git
+  362  cat Git
+  363  cd ..
+  364  git status
+  365  cd Git
+  366  git add Git
+  367  cd Prajwal
+  368  ll
+  369  git add .
+  370  git status
+  371  git commit -m "New File"
+  372  git status
+  373  git log
+  374  git push prajwal
+  375  git push prajwal
+  376  cd ..
+  377  git push
+  378  git branch
+  379  git branch Prajwal
+  380  git branch
+  381  git checkout Prajwal
+  382  mkdir Git1
+  383  touch notes
+  384  history
