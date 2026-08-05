@@ -1,0 +1,8 @@
+Tag commands:
+
+1. git Tag [list]
+2. git tag "T.name"
+3. git checkout <t.name>
+4. git tag -D <t.name>
+
+
