@@ -1,2 +1,5 @@
 git push origin raviShan
 git commit -m "Message"
+git log
+git show <commithash>
+git log --stat
