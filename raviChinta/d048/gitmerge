@@ -3,3 +3,4 @@ git commit -m "Message"
 git log
 git show <commithash>
 git log --stat
+git merge origin/branch_name
