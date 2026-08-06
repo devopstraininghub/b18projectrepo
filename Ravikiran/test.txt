@@ -1,0 +1,3 @@
+DevOps vs AIOps
+
+DevOps focuses on collaboration, delivery pipelines, and infrastructure automation to speed up software delivery, while AIOps uses artificial intelligence and machine learning to analyze massive volumes of operational data and automate incident response
