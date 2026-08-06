@@ -1,0 +1,8 @@
+Jenkins is an open-source automation server used to automate software development tasks such as building, testing, and deploying applications.
+It is widely used to implement Continuous Integration (CI) and Continuous Delivery/Deployment (CD).
+Jenkins supports integration with Git, GitHub, Docker, Kubernetes, Maven, Gradle, Ansible, Terraform, and cloud platforms.
+Pipelines allow you to define the entire CI/CD workflow as code using a Jenkinsfile.
+Jenkins supports Freestyle Projects for simple jobs and Pipeline Projects for more advanced automation.
+It has a master (controller) and agent architecture, allowing builds to run on multiple machines.
+Jenkins has a large plugin ecosystem with thousands of plugins to extend its functionality.
+It can automatically trigger builds when code is pushed to a Git repository using webhooks or polling.
