@@ -1,0 +1,5 @@
+git stash save <f.name>
+git stash list
+git stash apply <c.id>
+git stash pop <c.id>
+git stash drop
