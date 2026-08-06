@@ -1,0 +1,7 @@
+Docker is a containerization platform used to build, package, and run applications in isolated environments called containers.
+Containers are lightweight because they share the host operating system kernel, unlike virtual machines.
+Docker ensures consistency by allowing applications to run the same way across development, testing, and production environments.
+Docker Images are read-only templates used to create containers.
+Docker Containers are running instances of Docker images.
+Dockerfile is a text file that contains instructions to build a Docker image.
+Docker Hub is a public registry where Docker images can be stored, shared, and downloaded.
