@@ -1,7 +1,0 @@
-1.  git stash list
-2.  git stash save <f.name>
-3.  git stash pop <com.id>
-4.  git stash apply <com.id>
-5.  git stash drop
-
-
