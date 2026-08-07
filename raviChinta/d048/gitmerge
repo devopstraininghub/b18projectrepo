@@ -1,0 +1,10 @@
+git log --stat
+t git push origin raviShan
+git commit -m "Message"
+git fetch origin -->just downloads data from remote without chaning
+git merge origin/branchName --> downaloads the code and combines the chanehs
+git rebase origin/branch
+git log
+git show <commithash>
+git log --stat
+git merge origin/branch_name

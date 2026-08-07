@@ -1,0 +1,4 @@
+
+New Branch : git branch <branch_name>
+Switch Branch : git checkout <branch_name>
+
