@@ -1,0 +1,12 @@
+Arjun was a 4-year Java dev. Like every dev, he hated one bug.
+For 3 weeks this one error kept crashing the production app at exactly 2:17 AM:
+NullPointerException at line 404 in UserService.javaNo one touched that code in months. Logs showed the user_id was always null.  
+PMs were angry. Arjun was on night duty.On the 4th night, he decided to stay late and watch it happen live.
+2:16... 2:17... crash.
+He opened the debugger and stepped through. The user_id was being set by a cron job called AutoCleaner.Weird. He checked who wrote AutoCleaner.  
+Author: a.arjunHe didn’t remember writing it. He searched git history.
+Commit message: "Fix memory leak -Arjun"
+Date: 2 years from now.His blood ran cold. He scrolled up. There were 20 more commits... all by him. All dated in the future.Then his phone buzzed. Unknown number.
+Message: "Stop debugging. If you fix line 404, you erase me.  You, from 2028"Arjun stared at the screen. The bug wasn’t in the code.
+The bug was that he was supposed to leave it there.He closed his laptop at 2:18 AM.
+Some bugs exist so that future-you has a job.
