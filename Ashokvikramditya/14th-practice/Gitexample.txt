@@ -1,0 +1,12 @@
+This Gitexample is a reference fot git reset commands like .
+
+git add . or git add /.
+git commit -m "message"
+
+
+git reset HEAD <F.name>
+git reset --soft <com.id>
+git reset --mixed <com.id>
+
+Thankyou,
+Ashok T.
