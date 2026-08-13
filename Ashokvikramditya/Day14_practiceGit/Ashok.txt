@@ -1,0 +1,18 @@
+Hii, Ashok.file am giveing filename.
+
+command :
+
+echo "Message" > file.name
+
+ex: echo "Hii, Ashok.file am giveing filename." > Ashok.file
+
+
+  "  Ones try this "
+There are three ways to create a file in Git cli :
+.1 touch f.name
+.2 cat > f.name
+.3 echo "message XYZ" > file.name
+
+
+Thankyou, 
+Ashok T
