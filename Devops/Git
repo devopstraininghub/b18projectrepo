@@ -1,0 +1,10 @@
+Git is a version control system used to track code changes.
+It helps developers manage and maintain source code.
+Git is distributed, so every developer has a local copy of the repository.
+A repository (repo) stores the project files and their history.
+git init creates a new Git repository.
+git add stages changes for commit.
+git commit saves changes with a message.
+git push uploads local changes to a remote repository.
+git pull downloads and updates changes from a remote repository.
+Git helps teams work together, track changes, and restore previous versions

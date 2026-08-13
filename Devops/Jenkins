@@ -1,0 +1,10 @@
+Jenkins is an automation server used mainly for CI/CD.
+It helps build, test, and deploy applications automatically.
+Jenkins can automatically run jobs when developers push code.
+It can connect with Git/GitHub to get source code.
+A Jenkins Pipeline defines the steps of the CI/CD process.
+Jenkinsfile contains the pipeline configuration as code.
+Jenkins can run automated tests after building the application.
+It can build Docker images and push them to a container registry.
+Jenkins can deploy applications to platforms like AWS, Kubernetes, and servers.
+Jenkins helps teams save time, reduce manual work, and deliver software faster

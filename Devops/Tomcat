@@ -1,0 +1,10 @@
+Apache Tomcat is a web server and Servlet container.
+It is mainly used to run Java web applications.
+Tomcat supports technologies like Servlets and JSP.
+Java web applications are commonly packaged as WAR files.
+Tomcat deploys and runs these WAR applications.
+Its default HTTP port is usually 8080.
+The webapps folder is commonly used to deploy applications.
+Tomcat can be started and stopped using its startup/shutdown scripts.
+Jenkins can build a Java application and deploy it to Tomcat.
+Tomcat helps developers host and run Java web application

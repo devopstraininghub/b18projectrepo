@@ -1,0 +1,10 @@
+Docker is a platform used to build, run, and manage applications.
+It packages an application with all its dependencies into a container.
+A Docker image is a template used to create containers.
+A Docker container is a running instance of an image.
+Dockerfile contains instructions to build a Docker image.
+docker build creates an image from a Dockerfile.
+docker run creates and starts a container.
+Docker Hub is a public registry for storing and sharing images.
+Amazon ECR is AWS's private container registry for Docker images.
+Docker makes applications portable, consistent, and easy to deploy

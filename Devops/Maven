@@ -1,0 +1,10 @@
+Maven is a build automation and project management tool.
+It is mainly used for Java applications.
+Maven manages project dependencies (libraries) automatically.
+It uses a pom.xml file to configure the project.
+pom.xml contains project details, dependencies, and build settings.
+mvn compile compiles the source code.
+mvn test runs automated tests.
+mvn package creates a JAR or WAR file.
+Maven follows a standard build lifecycle.
+Maven helps developers build, test, package, and manage Java projects easily

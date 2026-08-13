@@ -1,0 +1,10 @@
+Kubernetes (K8s) is a platform used to manage containers.
+It automates deploying, running, and scaling containerized applications.
+A Pod is the smallest unit in Kubernetes.
+A Deployment manages and maintains multiple Pods.
+A Service provides network access to Pods.
+Kubernetes can automatically restart failed containers.
+It can scale applications by increasing or decreasing Pods.
+A Cluster is a group of machines running Kubernetes.
+Kubernetes uses YAML files to define application configurations.
+Kubernetes helps applications be scalable, reliable, and highly available

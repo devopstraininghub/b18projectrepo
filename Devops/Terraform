@@ -1,0 +1,10 @@
+Terraform is an Infrastructure as Code (IaC) tool.
+It is used to create and manage cloud infrastructure.
+Terraform supports cloud platforms like AWS, Azure, and GCP.
+It uses .tf files to define infrastructure.
+Terraform uses a declarative approach—we define what we want.
+terraform init initializes the Terraform project.
+terraform plan shows what changes Terraform will make.
+terraform apply creates or updates the infrastructure.
+terraform destroy removes the infrastructure managed by Terraform.
+Terraform helps make infrastructure automated, consistent, and repeatable
