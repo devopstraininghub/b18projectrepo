@@ -7,3 +7,54 @@ Hi, This readme.file is for Day16-practice git and github workflow practiced.
 5. Tag's ,
 6. Git conflict ,
 
+Tags :
+ 
+ Git tags commands :
+
+
+	1. git tag --list
+	2. git tag l
+	3. git tag <f.name>
+	4. git tag -a <f.name> -m "messaage"
+	5. Git tag -a <file.name> -f <f.name> -m ""
+	6. git diff <tag1> <tag2>
+	7. git tag -d <f.name>
+	8. git tag <f.name> <commit.id>
+
+Stash :
+
+  Stash commands :
+       
+       1. git stash list
+       2. git stash save  <f.mame>
+       3. git stash apply <f.name>
+       4. git stash drop  <f.name>
+
+Branch :
+  
+  Branch commands :
+      
+       1. git branch
+       2. git branch <b.name>
+       3. git checkout <b.name>
+       4. git switch <b.name>
+       5. git checkout -b <b.name>
+       6. git branch -d <b.name>
+       7. git branch -D <b.name>
+       8. git branch -a
+       9. git branch -r
+
+Git Reset :
+    
+   Reset commands :
+
+       1. git add .
+       2. git commit -m "message."
+       3. git add .;git commit -m "message."
+       4. git commit -am "message."
+       5. git reset --soft <commit.id> n-1
+       6. git reset HEAD <file.name> 
+       7. git reset --mixed <commit.id> n-1
+      
+
+
