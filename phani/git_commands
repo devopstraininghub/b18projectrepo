@@ -1,0 +1,16 @@
+git init - to create a empty new repo
+git config --global user.name "phani"
+git config --global user.email "phanimogilidev@gmail.com"
+git status
+git add <filename> or git add .
+git commit -m "commit details" <filename> or git commit -m "commit details" 
+git log
+git show <commit-id>
+git clone <central repo url >
+git push origin <central repo Url >
+git branch <branch_Name> 
+git branch
+git branch -d <branch_Name>
+git branch -D <branch_Name>
+git merge <branch_Name>
+
