@@ -1,0 +1,8 @@
+This concept is coverd Stash
+
+stash save 
+stash list
+stash apply
+git stash pop
+git stash drop.
+
