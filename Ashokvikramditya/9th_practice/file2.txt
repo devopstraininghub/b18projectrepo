@@ -1,1 +1,0 @@
-Hi, This is ashok Tagarampudi and this vi editor is used to testing purpose in file2.txt .
