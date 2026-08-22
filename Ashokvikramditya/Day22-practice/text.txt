@@ -1,0 +1,13 @@
+* This test file can reference to Day22 practicing  all Git and Github work flow.
+
+
+Like:
+
+. Git branching ,
+. Git rest : HEAD,SOFT,MIXED,
+. Git add . , Git commit , 
+. Git tags,
+. Git stashing,
+. Git conflicts.
+
+ 
