@@ -1,0 +1,9 @@
+git stash temporarily save changes without commiting
+ commands
+git stash
+git stash list
+git stash save name
+git stash apply
+git stash pop
+git stash clear
+
