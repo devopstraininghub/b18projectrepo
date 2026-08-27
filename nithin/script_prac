@@ -1,0 +1,31 @@
+#!/bin/bash
+
+echo "enter the name":
+read name
+mkdir $name
+cd $name
+touch chiru
+touch bala
+touch pawan
+touch characn
+touch varun
+touch tej
+
+
+mkdir -p heroine
+cd heroine
+touch savithri
+touch jahavi
+touch soundarya
+touch lahari
+touch kirara
+
+
+
+mkdir -p comedian
+cd comedian
+touch brahmi
+touch vennala
+touch kota
+touch subbaraor
+
