@@ -1,0 +1,13 @@
+#!/bin/bash
+set -e
+set -x
+
+num1=5
+num2=30
+num=2
+
+
+echo $(expr $num1 + $num2 + $num)
+echo $(expr $num2 \* $num)
+echo $(expr $num1 - $num2 -$num)
+echo $(($num1 / $num2))
