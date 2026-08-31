@@ -1,0 +1,11 @@
+#!/bin/bash
+
+set -x
+set -e
+
+num1=12
+num2=2
+num3=13
+
+echo $(expr $num1 + $num2 + $num3 )
+echo $(expr $num1 + $num2 \* $num3)
