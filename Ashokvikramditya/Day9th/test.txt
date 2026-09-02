@@ -1,0 +1,10 @@
+This day9th Git and github completed .
+
+branching stratigy 
+tags
+stash 
+Reset HEAD,soft,mixed
+
+with all commands form basic to advvanced .
+
+T Ashok.
