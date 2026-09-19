@@ -5,3 +5,5 @@ Hii, This file is referal for practice the git concepts like :
 3. git tags ,
 4. git merge and pull request's ,
 5. git stash .
+
+GIT CONFLICTS.
