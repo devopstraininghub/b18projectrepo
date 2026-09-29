@@ -1,7 +1,0 @@
-Java is Very Strong languae
-Java Object Oriented language
-Platform independent – Java follows the principle "Write Once, Run Anywhere (WORA)" using the Java Virtual Machine (JVM).
-Object-Oriented Programming (OOP) – Supports Encapsulation, Inheritance, Polymorphism, and Abstraction.
-Simple and Easy to Learn – Java has a clean syntax similar to C/C++ but removes complex features like pointers.
-Secure – Provides features such as bytecode verification, class loaders, and security managers.
-Robust – Strong exception handling and automatic memory management through Garbage Collection.

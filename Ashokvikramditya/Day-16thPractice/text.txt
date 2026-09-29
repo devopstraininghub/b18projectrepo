@@ -1,1 +1,0 @@
-This vim editor is for testing the file .

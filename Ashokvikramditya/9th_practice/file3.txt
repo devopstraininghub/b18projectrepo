@@ -1,1 +1,0 @@
-Hi, am Ashok tagarampudi this vi editor is use for testing purpose in file3.txt . 
