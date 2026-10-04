@@ -1,0 +1,10 @@
+/ Every line of code in Java must reside inside a class.
+// The class name must perfectly match the filename (e.g., Main.java).
+public class Main {
+    
+    // The main method serves as the exact entry point for program execution.
+    public static void main(String[] args) {
+        
+        // Prints the text to the console with a new line at the end.
+        System.out.println("Hello, World!");
+    }
