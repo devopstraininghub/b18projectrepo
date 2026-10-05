@@ -1,0 +1,10 @@
+Git all concepts has covered and practice completed .
+
+Git branching ,
+Git rest - SOFT,HEAD,MIXED ,
+Git tags ,
+Git conflits ,
+Git Stashing ,
+Git -> pull , Rebase , fetch concept.
+
+_____All this imp concepts and practice has completely covered by ashoktagarampudi____ 
