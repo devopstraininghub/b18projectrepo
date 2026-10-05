@@ -1,4 +1,4 @@
-Git all concepts has covered and practice completed .
+Git all concepts has covered and practice completed on 10/05/2026 .
 
 Git branching ,
 Git rest - SOFT,HEAD,MIXED ,
