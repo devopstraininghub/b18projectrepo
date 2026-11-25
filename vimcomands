@@ -1,0 +1,10 @@
+vim/vi/nano
+
+
+vim fname
+
+esc : i   insert data
+
+esc shift : wq to save and exit
+
+ 
